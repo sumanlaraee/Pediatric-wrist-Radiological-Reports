@@ -1,0 +1,13 @@
+filestem,patient_id,gender,age,Problems,image,indication,findings,impression,image_Url
+0015_0668695173_01_WRI-L1_F008,15,F,8,Fracture,X. RAY LEFT WRIST JOINT A/P & LATERAL VIEWS:,"There is evidence of torus fracture identified in the distal left radius.
+
+Normal joint spaces
+",Soft tissue swelling noted.,"Torus fracture of left distal radius. Clinical correlation acquired.
+To consult Orthopaedic surgeon
+",https://github.com/GoutamSachdev/ReportDataSet/blob/main/Images/0015_0668695173_01_WRI-L1_F008.png?raw=true
+0015_0668695209_01_WRI-L2_F008,15,F,8,Fracture,X. RAY LEFT WRIST JOINT A/P & LATERAL VIEWS:,"There is evidence of torus fracture identified in the distal left radius.
+
+Normal joint spaces
+",Soft tissue swelling noted.,"Torus fracture of left distal radius. Clinical correlation acquired.
+To consult Orthopaedic surgeon
+",https://github.com/GoutamSachdev/ReportDataSet/blob/main/Images/0015_0668695209_01_WRI-L2_F008.png?raw=true
